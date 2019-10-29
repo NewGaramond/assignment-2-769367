@@ -1,0 +1,19 @@
+  {
+    "@id": "http://environment.data.gov.uk/water-quality/data/measurement/SW-3368551-0061",
+    "sample.samplingPoint": "http://environment.data.gov.uk/water-quality/id/sampling-point/SW-50010208",
+    "sample.samplingPoint.notation": "SW-50010208",
+    "sample.samplingPoint.label": "RIVER MUDE AT RAVEN WAY",
+    "sample.sampleDateTime": "2019-01-02T09:11:00",
+    "determinand.label": "pH",
+    "determinand.definition": "pH",
+    "determinand.notation": "0061",
+    "resultQualifier.notation": "",
+    "result": 8.22,
+    "codedResultInterpretation.interpretation": "",
+    "determinand.unit.label": "phunits",
+    "sample.sampledMaterialType.label": "RIVER / RUNNING SURFACE WATER",
+    "sample.isComplianceSample": false,
+    "sample.purpose.label": "ENVIRONMENTAL MONITORING STATUTORY (EU DIRECTIVES)",
+    "sample.samplingPoint.easting": 418208,
+    "sample.samplingPoint.northing": 92297
+  }

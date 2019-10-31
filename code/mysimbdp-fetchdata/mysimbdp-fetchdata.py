@@ -1,0 +1,1 @@
+#Automatically detects files that can be ingested based on customer profiles

@@ -1,0 +1,22 @@
+{
+    "Max_file_size" : 10000000,
+    "ClientProfiles" : 
+	{ 
+        	{
+            	"ClientId" : 1,
+		"ClientName" : "c_1",
+            	"Subscription" : "Premium",
+           	"Minibatching" : "True",
+            	"Batch_size" : 1000000,
+           	 "File_formats" : "txt,csv"
+            	
+        },
+        {
+            "ClientId": 2,
+            "Subscription" : "Free",
+            "Minibatching" : "False",
+            "File_formats" : "txt,csv",
+            "companyName" : "comp_2"
+        }    
+	}
+}

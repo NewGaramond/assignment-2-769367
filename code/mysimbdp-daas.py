@@ -30,3 +30,4 @@ new_doc={
 }
 records.insert_one(new_doc)
 
+records.inset_one()

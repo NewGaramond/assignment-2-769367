@@ -36,7 +36,7 @@ def get_all_frameworks():
                 "sample_samplingPoint_northing": q["sample_samplingPoint_northing"]
             })
     return jsonify({'result' : output})
-@app.route('/framwork/<label>',methods=['GET'])
+@app.route('/framework/<label>',methods=['GET'])
 def get_one_framework(label):
     framework=mongo.db.framework
 

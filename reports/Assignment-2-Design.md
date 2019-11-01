@@ -36,6 +36,7 @@ For the data ingestion, the broker will have a queue for each client to publish 
 
 ##Part 3: Integration and Extension
 #### 1. Produce an integrated architecture for both batch and near-realtime ingestion features in this assignment and explain the architecture.
+
 ![la-overview_small](la-overview_small.png)
 
 The architecture would be similar to the lambda architecture shown above, it consist on a generic, scalable and fault-tolerant data processing architecture. To produce the batch layer of the lambda architecture we will combine ``fetchData`` and ``batch-ingest-manager`` this layer will manage the input dataset and pre-compute the batch views which can then be combined with views from speed layer to provide actionable insights to customers. The views from batch layer are joined with views from speed layer in the presentation layer. In case of failure, we can recompute the views and we would have the same consistent state back. 
@@ -54,3 +55,5 @@ Data privacy from clients and protection and security from our side. Client data
 In order to maintain the quality of the data, we could create a service as part of the ``clientstreamingestapp/clientbatchingestapp`` to examinate the value of data compared to a predefined parameters that the client could set up during the registration in our big data platform. This way we could generate a jsonSchema for our MongoDB that could contain strict constrains for each type of dataset that the client generates.
 
 #### 5. If a consumer has multiple clientbatchingestapp and clientstreamingestapp, each is suitable for a type of messages or files, how would you extend your design and implementation in Parts 1 & 2 (only explain the concept/design) to support this requirement.
+
+We would need to augment ``batchingestmanager`` and ``streamingestmanager`` to create instances for different client apps, we could stipulate in mysimbdp instructions to add a number or code in the client app scripts and then we could map this number to identify how many of the client apps of each category our simple big data platform has to deal with. 

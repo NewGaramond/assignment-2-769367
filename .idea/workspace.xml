@@ -2,22 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="811f71b1-5d9b-4f55-8c21-ad840dae68f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/code/rabbMQreceiv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/rabbMQsender.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/Reports-1-assigment/Report.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/configjson.PNG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/APIflask.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/APIflask.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/mysimbdp-daas.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/mysimbdp-daas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/python-rabbitmq-mongodb/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/data_managament.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/python-rabbitmq-mongodb/action.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demolink.txt" beforeDir="false" afterPath="$PROJECT_DIR$/demolink.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/Assignment-Nr-Design.md" beforeDir="false" afterPath="$PROJECT_DIR$/reports/Assignment-2-Design.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/BigDataSchema.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/reports/Reports-1-assigment/BigDataSchema.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/Report.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/cluste0mongodb.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/reports/Reports-1-assigment/cluste0mongodb.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/dataSchema.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/reports/Reports-1-assigment/dataSchema.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selfgrading.csv" beforeDir="false" afterPath="$PROJECT_DIR$/selfgrading.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Assignment-2-Design.md" beforeDir="false" afterPath="$PROJECT_DIR$/reports/Assignment-2-Design.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Stream&amp;BatchDesign.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/reports/Stream&amp;BatchDesign.PNG" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,17 +34,18 @@
     <session id="-882677054">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="DataScheme" value="2" />
-          <entry key="PNG" value="3" />
+          <entry key="PNG" value="5" />
           <entry key="csv" value="3" />
           <entry key="json" value="2" />
           <entry key="log" value="1" />
@@ -68,7 +56,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Image" value="3" />
+          <entry key="Image" value="5" />
           <entry key="JSON" value="2" />
           <entry key="Markdown" value="6" />
           <entry key="PLAIN_TEXT" value="7" />
@@ -80,13 +68,13 @@
           <entry key="Python Console" value="762" />
           <entry key="csv" value="1" />
           <entry key="dummy" value="12" />
-          <entry key="md" value="10270" />
+          <entry key="md" value="11209" />
           <entry key="py" value="495" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="10270" />
+          <entry key="Markdown" value="11209" />
           <entry key="PLAIN_TEXT" value="13" />
           <entry key="Python" value="1257" />
         </counts>
@@ -95,17 +83,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/code/DataScheme">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/reports/Assignment-2-Design.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="453">
-                <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+              <first_editor relative-caret-position="773">
+                <caret line="58" column="354" selection-start-line="58" selection-start-column="354" selection-end-line="58" selection-end-column="354" />
               </first_editor>
               <second_editor />
             </state>
@@ -113,11 +96,21 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reports/Stream&amp;BatchDesign.PNG">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reports/configjson.PNG">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../assignment-1-769367/reports/Report.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="527">
-                <caret line="31" column="29" lean-forward="true" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+                <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
               </first_editor>
               <second_editor />
             </state>
@@ -216,8 +209,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="619" />
-    <option name="y" value="-22" />
+    <option name="x" value="672" />
+    <option name="y" value="-15" />
     <option name="width" value="960" />
     <option name="height" value="1040" />
   </component>
@@ -358,12 +351,12 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15671642" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.053304903" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286334" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286334" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -449,14 +442,59 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="31" selection-start-line="31" selection-end-line="31" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/code/mysimbdp-coredms.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/mysimbdp-fetchdata.py" />
+    <entry file="file://$PROJECT_DIR$/code/APIflask.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="123" column="26" selection-start-line="123" selection-start-column="26" selection-end-line="123" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/data_managament.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/DataScheme">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../assignment-1-769367/reports/Report.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="527">
+            <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selfgrading.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demolink.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reports/Reports-1-assigment/Report.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret selection-end-line="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/W-2019.json">
       <provider selected="true" editor-type-id="LargeFileEditor">
@@ -475,74 +513,17 @@
     <entry file="file://$PROJECT_DIR$/code/mysimbdp-dataingest.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/code/mysimbdp-fetchdata.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" selection-start-column="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/APIflask.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="539">
-          <caret line="123" column="26" selection-start-line="123" selection-start-column="26" selection-end-line="123" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/data_managament.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reports/Reports-1-assigment/Report.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-line="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selfgrading.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demolink.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/reports/configjson.PNG">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../assignment-1-769367/reports/Report.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="527">
-            <caret line="31" column="29" lean-forward="true" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/DataScheme">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/reports/Stream&amp;BatchDesign.PNG">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/reports/Assignment-2-Design.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="453">
-            <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+          <first_editor relative-caret-position="773">
+            <caret line="58" column="354" selection-start-line="58" selection-start-column="354" selection-end-line="58" selection-end-column="354" />
           </first_editor>
           <second_editor />
         </state>
